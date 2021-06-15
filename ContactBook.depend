@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623723330 source:f:\naveen\it_learning vidio\langague\c++\contactbook\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
